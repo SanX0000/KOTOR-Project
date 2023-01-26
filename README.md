@@ -1,4 +1,4 @@
-# SanFlix
+# KOTOR Projetct
 
 <hr>
 <h2 align="center">Tecnologias utilizadas 🛠</h2><br>
