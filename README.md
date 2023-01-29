@@ -1,4 +1,8 @@
-# KOTOR Projetct
+# <h1 align="center"> KOTOR Project </h1>
+
+![Captura de tela 2023-01-29 081050](https://user-images.githubusercontent.com/115950745/215322236-3cfcfcef-7190-45cb-a4af-71e55bb77e9c.png)
+
+
 
 <hr>
 <h2 align="center">Tecnologias utilizadas 🛠</h2><br>
