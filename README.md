@@ -11,6 +11,6 @@
 
 
 
-## <h2 align="center"> 🔨 Sobre a construção do projeto 🚧 </h2>
+## <h2 align="center"> 🔨 Sobre a construção do projeto</h2>
 
 
