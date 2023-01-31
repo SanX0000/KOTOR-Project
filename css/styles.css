@@ -44,7 +44,7 @@ li:hover {
 }
 
 #banner {
-    background-image: url(/SanFlix/assets/image00.jpg);
+    background-image: url(/assets/banner1.jpg);
     background-position: 50% 50%;
     background-size: cover;
     width: 100%;
@@ -88,15 +88,15 @@ li:hover {
 }
 
 .banner1 {
-    background-image: url(/SanFlix/assets/image1.webp)
+    background-image: url(/assets/card1.webp)
 }
 
 .banner2 {
-    background-image: url(/SanFlix/assets/image03.webp);
+    background-image: url(/assets/card2.webp);
 }
 
 .banner3 {
-    background-image: url(/SanFlix/assets/image04.png);
+    background-image: url(/assets/card3.png);
 }
 
 .img-footer {
